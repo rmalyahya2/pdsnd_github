@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 References:<br />
 [1]“python - Error in reading stock data : ‘DatetimeProperties’ object has no attribute ‘weekday_name’ and ‘NoneType’ object has no attribute ‘to_csv,’” Stack Overflow. https://stackoverflow.com/questions/60214194/error-in-reading-stock-data-datetimeproperties-object-has-no-attribute-week (accessed Dec. 09, 2022).<br />
 ‌[2]M. Agarwal, “How to Best Use Try Except in Python - Especially for Beginners,” Learn Programming and Software Testing, Jun. 16, 2017. https://techbeamers.com/use-try-except-python/ (accessed Dec. 09, 2022).<br />
@@ -8,3 +9,8 @@ References:<br />
 ‌
 ‌
 ‌
+=======
+>**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
+### this is for udacity git project - reafactoring branch
+>>>>>>> refactoring
