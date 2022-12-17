@@ -23,6 +23,10 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid
     # inputs
     #this is for udacity git project
+<<<<<<< HEAD
+=======
+    #this is for udacity git project - reafactoring branch
+>>>>>>> refactoring
     city = input(" please choose a city between:\n1.chicago\n2.new york city\n3.washington\n ").lower()
     while city not in city_name:
         city = input("invalid input!!!\nplease choose a city\n1.chicago\n2.new york city\n3.washington\n")
