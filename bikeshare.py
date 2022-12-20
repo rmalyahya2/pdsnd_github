@@ -24,6 +24,10 @@ def get_filters():
     # inputs
     #this is for udacity git project
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    #this is for udacity git project - reafactoring branch
+>>>>>>> refactoring
 =======
     #this is for udacity git project - reafactoring branch
 >>>>>>> refactoring
